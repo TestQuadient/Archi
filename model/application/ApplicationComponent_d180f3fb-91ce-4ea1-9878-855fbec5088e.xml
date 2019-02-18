@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-11 Calculation Engine"
+    id="d180f3fb-91ce-4ea1-9878-855fbec5088e"
+    documentation="Calculates product profitability and Financial Plan performance"/>

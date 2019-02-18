@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Synchronize Users"
+    id="0d590980-d791-4402-a35f-0aa4befc5d21">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_4e3399df-83ae-4c3d-933e-c1f2c05f7905.xml#4e3399df-83ae-4c3d-933e-c1f2c05f7905"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_c505b32b-739c-4e4c-baba-dda8f0393e0e.xml#c505b32b-739c-4e4c-baba-dda8f0393e0e"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get Report Data"
+    id="41090bc3-5aaf-47b3-8a52-c5d6c79ebd13">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_7e3eb16d-15d0-4bb9-be61-eae5f1b95f56.xml#7e3eb16d-15d0-4bb9-be61-eae5f1b95f56"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_62ac7144-1cc6-43c9-a966-00ef5473acfd.xml#62ac7144-1cc6-43c9-a966-00ef5473acfd"/>
+</archimate:ServingRelationship>

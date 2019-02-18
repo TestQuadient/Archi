@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-12 Campaign Planner"
+    id="14aa583e-4337-4dc7-be25-fead55473a4c"
+    documentation="Selects Campaign Recipients&#xD;&#xA;&#xD;&#xA;Used to generate data extract to send Marketing Campaign"/>

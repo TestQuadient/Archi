@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Send Print Files"
+    id="09879227-35dc-46d7-81aa-c5bc1d001f51">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_4e3399df-83ae-4c3d-933e-c1f2c05f7905.xml#4e3399df-83ae-4c3d-933e-c1f2c05f7905"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_89fc43cd-7f8d-4109-b967-9fa5784ab6d3.xml#89fc43cd-7f8d-4109-b967-9fa5784ab6d3"/>
+</archimate:ServingRelationship>

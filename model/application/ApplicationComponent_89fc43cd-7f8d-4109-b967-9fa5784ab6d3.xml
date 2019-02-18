@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-13 Print Server"
+    id="89fc43cd-7f8d-4109-b967-9fa5784ab6d3"
+    documentation="Prints and delivers output documents&#xD;&#xA;&#xD;&#xA;Inspire provides Print Files to PSP"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-7 Email Server"
+    id="2127cc73-2b67-43dc-b9c2-caf77bc297b8"
+    documentation="Sends email notifications&#xD;&#xA;&#xD;&#xA;Used by Inspire Interactive to notify users about pending approval"/>

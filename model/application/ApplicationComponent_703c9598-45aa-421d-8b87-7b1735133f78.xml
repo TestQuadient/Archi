@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-10 Admin Tool"
+    id="703c9598-45aa-421d-8b87-7b1735133f78"
+    documentation="Stores and provides information about clients and IFAs&#xD;&#xA;&#xD;&#xA;Inspire Scaler requests information to get client preference etc."/>

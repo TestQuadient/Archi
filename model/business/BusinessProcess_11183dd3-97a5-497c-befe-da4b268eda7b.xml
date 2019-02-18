@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consolidation Process"
+    id="11183dd3-97a5-497c-befe-da4b268eda7b"
+    documentation="Letters to be printed and delivered via post are consolidated&#xD;&#xA;&#xD;&#xA;Letters to be printed are consolidated before sent to Print Service Provider to get better price.&#xD;&#xA;&#xD;&#xA;1.&#x9;Consolidated process is triggered by system scheduler once a day&#xD;&#xA;2.&#x9;All letters to be printed are located and consolidated into single output print file and formatted for Print (PDF)&#xD;&#xA;3.&#x9;Consolidated Print File is send to Print Service Provider&#xD;&#xA;"/>

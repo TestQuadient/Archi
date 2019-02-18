@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-3 Active Directory"
+    id="c505b32b-739c-4e4c-baba-dda8f0393e0e"
+    documentation="Stores User Accounts and their roles&#xD;&#xA;&#xD;&#xA;Allow read access to Inspire Content Manager to synchronize OM User Groups with Inspire Roles"/>

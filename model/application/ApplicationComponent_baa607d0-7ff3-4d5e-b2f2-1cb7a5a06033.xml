@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Requesting System"
+    id="baa607d0-7ff3-4d5e-b2f2-1cb7a5a06033"
+    documentation="Allows to trigger communication request"/>

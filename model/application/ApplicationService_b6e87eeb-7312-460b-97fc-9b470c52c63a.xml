@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Service"
+    id="b6e87eeb-7312-460b-97fc-9b470c52c63a"
+    documentation="An application service represents an explicitly defined exposed application behavior."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-8 Data Warehouse"
+    id="f9a00883-7e06-4725-b2b1-7050709b8f7e"
+    documentation="Stores and provides communication data on demand&#xD;&#xA;&#xD;&#xA;Inspire Scaler requests data using IDs to generate communication"/>

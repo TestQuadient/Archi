@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get Calculated data"
+    id="4259cb36-f70d-45d0-9e86-72f2346aa65b">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_4e3399df-83ae-4c3d-933e-c1f2c05f7905.xml#4e3399df-83ae-4c3d-933e-c1f2c05f7905"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_d180f3fb-91ce-4ea1-9878-855fbec5088e.xml#d180f3fb-91ce-4ea1-9878-855fbec5088e"/>
+</archimate:ServingRelationship>

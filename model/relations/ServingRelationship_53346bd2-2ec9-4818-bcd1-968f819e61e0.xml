@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Financial Plans"
+    id="53346bd2-2ec9-4818-bcd1-968f819e61e0">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_7d20e273-1ec1-4a24-b1c6-af68186fb11e.xml#7d20e273-1ec1-4a24-b1c6-af68186fb11e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_19fdb2cb-1328-4d66-a9e9-d5eecc6ad597.xml#19fdb2cb-1328-4d66-a9e9-d5eecc6ad597"/>
+</archimate:ServingRelationship>

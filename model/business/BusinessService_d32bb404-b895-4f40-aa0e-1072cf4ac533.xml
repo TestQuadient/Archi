@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Correspondence New"
+    id="d32bb404-b895-4f40-aa0e-1072cf4ac533"
+    documentation="Internal Business Service that allows users to send written communication to customer&#xD;&#xA;&#xD;&#xA;Human Actors (Roles &amp; responsibilities):&#xD;&#xA;Departments:&#xD;&#xA;Operations&#xD;&#xA;Financial Advisors&#xD;&#xA;&#xD;&#xA;Roles: &#xD;&#xA;Writer – can request, customize and approve customer communication&#xD;&#xA;&#xD;&#xA;System Actors (Roles &amp; responsibilities):&#xD;&#xA;Requesting System – system requesting communication&#xD;&#xA;Calculation Engine – performs calculation of Financial Plan&#xD;&#xA;Web Portal – portal where HTML is stored and accessible&#xD;&#xA;Data Warehouse – provides customer data on demand&#xD;&#xA;Archive – system that stores produced communication for later use&#xD;&#xA;Email Gateway – system that delivers emails to customers&#xD;&#xA;Inspire Scaler – orchestrates communication generation and delivery&#xD;&#xA;Inspire Interactive – allows Writer to customize communication&#xD;&#xA;"/>

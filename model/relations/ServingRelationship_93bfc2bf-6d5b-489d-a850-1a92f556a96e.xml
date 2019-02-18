@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Individualize Communications"
+    id="93bfc2bf-6d5b-489d-a850-1a92f556a96e">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_abf425cf-6020-4b1a-9289-30cb8dac2031.xml#abf425cf-6020-4b1a-9289-30cb8dac2031"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_62ac7144-1cc6-43c9-a966-00ef5473acfd.xml#62ac7144-1cc6-43c9-a966-00ef5473acfd"/>
+</archimate:ServingRelationship>

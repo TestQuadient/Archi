@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Individualize Financial Plan"
+    id="c32ee1b0-f5a8-412a-a448-cd742e72fdd1">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_7d20e273-1ec1-4a24-b1c6-af68186fb11e.xml#7d20e273-1ec1-4a24-b1c6-af68186fb11e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_62ac7144-1cc6-43c9-a966-00ef5473acfd.xml#62ac7144-1cc6-43c9-a966-00ef5473acfd"/>
+</archimate:ServingRelationship>

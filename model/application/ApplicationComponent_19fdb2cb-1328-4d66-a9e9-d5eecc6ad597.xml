@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-5 Front-End"
+    id="19fdb2cb-1328-4d66-a9e9-d5eecc6ad597"
+    documentation="Allows access to Clients and IFAs&#xD;&#xA;&#xD;&#xA;Used to create Financial Plan, to host HTML produced by Inspire and to request communication from Inspire"/>

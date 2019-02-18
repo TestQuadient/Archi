@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Processes and Configuration"
+    id="f232c4d2-5203-46ed-be7f-b0d7325b6966">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_2f8c384f-7c64-4c5b-b49d-08dacd978ea4.xml#2f8c384f-7c64-4c5b-b49d-08dacd978ea4"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_62ac7144-1cc6-43c9-a966-00ef5473acfd.xml#62ac7144-1cc6-43c9-a966-00ef5473acfd"/>
+</archimate:ServingRelationship>

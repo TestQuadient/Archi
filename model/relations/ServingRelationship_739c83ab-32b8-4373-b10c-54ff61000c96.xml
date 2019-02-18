@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deliver Push Notification"
+    id="739c83ab-32b8-4373-b10c-54ff61000c96">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_62ac7144-1cc6-43c9-a966-00ef5473acfd.xml#62ac7144-1cc6-43c9-a966-00ef5473acfd"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_f30847f4-3475-4ae0-a1b7-b0dcc46b20f1.xml#f30847f4-3475-4ae0-a1b7-b0dcc46b20f1"/>
+</archimate:ServingRelationship>

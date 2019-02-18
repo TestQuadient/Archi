@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provides Data Extract"
+    id="c4bc5dd5-3aa5-48b9-867d-ce110bb19111">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_14aa583e-4337-4dc7-be25-fead55473a4c.xml#14aa583e-4337-4dc7-be25-fead55473a4c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_2d8b0670-35d0-4e38-8971-0f6a15fd8e8e.xml#2d8b0670-35d0-4e38-8971-0f6a15fd8e8e"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AC-4 Business Inteligence"
+    id="7e3eb16d-15d0-4bb9-be61-eae5f1b95f56"
+    documentation="Generates Management Reports on demand&#xD;&#xA;&#xD;&#xA;Define reports that are generated using data from Inspire Control Database"/>

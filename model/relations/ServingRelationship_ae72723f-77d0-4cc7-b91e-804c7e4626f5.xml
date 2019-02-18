@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Fund Fact Sheets"
+    id="ae72723f-77d0-4cc7-b91e-804c7e4626f5">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_d4e45b2d-77e0-4a04-b6fd-cb3413a92c89.xml#d4e45b2d-77e0-4a04-b6fd-cb3413a92c89"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_62ac7144-1cc6-43c9-a966-00ef5473acfd.xml#62ac7144-1cc6-43c9-a966-00ef5473acfd"/>
+</archimate:ServingRelationship>

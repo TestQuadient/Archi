@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Send Push Notifications"
+    id="04aa5305-f2fa-4199-8070-e8f9a30bce31">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_4e3399df-83ae-4c3d-933e-c1f2c05f7905.xml#4e3399df-83ae-4c3d-933e-c1f2c05f7905"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_2d8b0670-35d0-4e38-8971-0f6a15fd8e8e.xml#2d8b0670-35d0-4e38-8971-0f6a15fd8e8e"/>
+</archimate:ServingRelationship>

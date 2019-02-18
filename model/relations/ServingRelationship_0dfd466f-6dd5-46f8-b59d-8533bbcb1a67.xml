@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Statements"
+    id="0dfd466f-6dd5-46f8-b59d-8533bbcb1a67">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_2f8c384f-7c64-4c5b-b49d-08dacd978ea4.xml#2f8c384f-7c64-4c5b-b49d-08dacd978ea4"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_62ac7144-1cc6-43c9-a966-00ef5473acfd.xml#62ac7144-1cc6-43c9-a966-00ef5473acfd"/>
+</archimate:ServingRelationship>

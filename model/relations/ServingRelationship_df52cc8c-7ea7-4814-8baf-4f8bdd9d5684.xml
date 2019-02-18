@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Map Customer Journey"
+    id="df52cc8c-7ea7-4814-8baf-4f8bdd9d5684">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_ac9f6a16-ca9f-4243-b326-56e3b0473d59.xml#ac9f6a16-ca9f-4243-b326-56e3b0473d59"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_62ac7144-1cc6-43c9-a966-00ef5473acfd.xml#62ac7144-1cc6-43c9-a966-00ef5473acfd"/>
+</archimate:ServingRelationship>
